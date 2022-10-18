@@ -1,7 +1,7 @@
 React projects from Scrimba
 
 # Getting Started with Create React App
-![Ekran Alıntısı](https://user-images.githubusercontent.com/100282383/181520406-14d158b3-e0f2-48a0-9116-4a66f8c5c2b2.JPG)
+![MyTravelJournal](https://user-images.githubusercontent.com/100282383/181520406-14d158b3-e0f2-48a0-9116-4a66f8c5c2b2.JPG)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
